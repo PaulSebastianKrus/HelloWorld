@@ -22,5 +22,12 @@ public class HelloWorld {
         boolean b1=true;
         System.out.print(b1);
 
+        System.out.println(LocalDateTime.now());
+        System.out.println(LocalDateTime.now());
+        System.out.println(LocalDateTime.now());
+        System.out.println(LocalDateTime.now());
+
+
+
     }
 }
