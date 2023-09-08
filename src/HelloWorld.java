@@ -15,7 +15,7 @@ public class HelloWorld {
         System.out.println(now);
         System.out.println(now);
         System.out.println(LocalDateTime.now());
-
+        System.out.println(LocalDateTime.now());
 
         char hej='a';
         System.out.println(hej);
