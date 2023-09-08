@@ -16,7 +16,7 @@ public class HelloWorld {
         System.out.println(now);
         System.out.println(LocalDateTime.now());
 
-
+        double test1 = 3.2
         char hej='a';
         System.out.println(hej);
         boolean b1=true;
